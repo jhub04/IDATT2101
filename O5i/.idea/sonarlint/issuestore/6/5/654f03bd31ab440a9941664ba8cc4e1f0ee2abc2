@@ -1,0 +1,7 @@
+
+”
+java:S2095Z"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.( ±…ôûÿÿÿÿ8ıôÁÚ§2J$9d745032-0dcf-460c-bb67-1fcd06282d8e
+€
+java:S1854^"8Remove this useless assignment to local variable "edge".(“À¹…ùÿÿÿÿ8ƒõÁÚ§2J$36abc302-4bdf-4edc-98ec-62f958ef377d
+q
+java:S1481^")Remove this unused "edge" local variable.(“À¹…ùÿÿÿÿ8„õÁÚ§2J$780b03a8-6598-4e9a-9926-d5dc01ea5484
